@@ -6,7 +6,12 @@
 	For now, here's a Mark-down image, shamlessly stolen from the GitHub Repository
 </p>
 	
-	![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png
+	![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
 	
 <p>
 	I seem to have not committed properly, possibly since I forgot to add a Comment :see_no_evil: 
+</p>
+
+<p>
+	I forogt a bracket `)` above, so I had to edit the file, and will no re-commit it.
+</p>
